@@ -1,0 +1,50 @@
+[tool.poetry]
+name = "analysis"
+version = "0.1.2"
+description = "Detection of rogue plants from ground imagery."
+authors = [
+    "Joshua Dean <joshua.dean@sentera.com>",
+    "Neil Schroeder <neil.schroeder@sentera.com>",
+    "Trevor Burgoyne <trevor.burgoyne@sentera.com>"
+]
+
+[tool.poetry.dependencies]
+# Python 3.9 allowed for Travis. For full functionality, use 3.11.*
+python = ">=3.9, <3.12"
+boto3 = "*"
+botocore = "*"
+click = "*"
+ffmpeg-python = "*"
+future = "*"
+imagehash = "*"
+matplotlib = "*"
+mlflow = "*"
+numba = "*"
+numpy = {version = "<1.24"}
+opencv-python = "*"
+pandas = "*"
+psutil = "*"
+pycocotools = "*"
+pyparsing = "*"
+pyproj = "*"
+seaborn = "*"
+scikit-image = "*"
+scikit-learn = "*"
+scikit-video = "*"
+scipy = "*"
+setuptools = "*"
+tqdm = "*"
+
+S3MP = { git = "ssh://git@github.com/SenteraLLC/S3MP.git", tag = "v0.4.3"}
+aws_utils = { git = "ssh://git@github.com/SenteraLLC/py-aws-utils.git", tag = "v3.4.4"}
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
+pre_commit = "*"
+
+[tool.setuptools]
+py-modules = ["ground_data_processing","analysis", "ddb_tracking","data_augmentation"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

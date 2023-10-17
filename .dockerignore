@@ -1,0 +1,13 @@
+# Root subdirectories
+delivery
+2020-testing
+2021_aerial_rogues_processing
+delivery
+gui
+node_modules
+react-frontend
+terraform-backend
+
+# Other subdirectories
+ground_data_processing/terraform
+ground_data_processing/paddle_files

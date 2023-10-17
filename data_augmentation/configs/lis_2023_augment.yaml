@@ -1,0 +1,21 @@
+RUN_TYPE: augment
+
+DATA:
+  dataset_s3_path: bayer/training_data/instance_segmentation/polygon-corn_leaf/BATCH-rogues-leaf-segmentation-dataset-2023-transfer-2/20230918-104649-1024_1024/
+  images_folder_name: images
+  annotations_folder_name: labels
+  annotations_file_name: dataset.json
+  destination_s3_path: bayer/training_data/instance_segmentation/polygon-corn_leaf/BATCH-rogues-leaf-segmentation-dataset-2023-transfer-2/multithread-test/
+  default_height: 1024
+  default_width: 1024
+  overwrite: False
+
+AUGMENTATIONS:
+  RANDOM_CROP:
+    number: 1
+    crop_height: 512
+    crop_width: 512
+  RANDOM_ZOOM:
+    number: 1
+    crop_height: 512
+    crop_width: 512

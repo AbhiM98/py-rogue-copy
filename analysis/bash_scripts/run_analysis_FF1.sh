@@ -1,0 +1,8 @@
+tmux new-session -d -s "Row 1" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row1/ --threshold 750"
+tmux new-session -d -s "Row 2" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row2/ --threshold 900"
+tmux new-session -d -s "Row 3" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row3/ --threshold 650"
+tmux new-session -d -s "Row 4" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row4/ --threshold 875"
+tmux new-session -d -s "Row 5" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row5/ --threshold 1000" 
+tmux new-session -d -s "Row 6" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row6/ --threshold 825"
+tmux new-session -d -s "Row 7" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row7/ --threshold 1000"
+tmux new-session -d -s "Row 8" "python scripts/run_analysis.py --dir s3_mirror/FF1_7-07_Row8/ --threshold 875"

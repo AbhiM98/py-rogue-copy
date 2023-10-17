@@ -1,0 +1,22 @@
+metric: COCO
+num_classes: 1
+
+TrainDataset:
+  !COCODataSet
+    data_fields: ['image', 'gt_bbox', 'gt_class', 'gt_poly', 'is_crowd']
+    dataset_dir: rogues-leaf-data
+    image_dir: images
+    anno_path: labels/test.json
+    
+
+EvalDataset:
+  !COCODataSet
+    dataset_dir: rogues-leaf-data
+    image_dir: images
+    anno_path: labels/test.json
+
+TestDataset:
+  !ImageFolder
+    dataset_dir: rogues-leaf-data
+    anno_path: labels/test.json
+

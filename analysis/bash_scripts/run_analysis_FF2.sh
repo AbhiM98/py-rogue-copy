@@ -1,0 +1,16 @@
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row01/ --threshold 800
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row02/ --threshold 850
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row03/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row04/ --threshold 800
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row05/ --threshold 750
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row06/ --threshold 800
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row07/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row08/ --threshold 775
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row09/ --threshold 750
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row10/ --threshold 750
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row11/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row12/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row13/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row14/ --threshold 700
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row15/ --threshold 800
+# python scripts/run_analysis.py --dir s3_mirror/FF2_7-08_Row16/ --threshold 700

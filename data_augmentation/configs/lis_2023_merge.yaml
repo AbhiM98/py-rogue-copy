@@ -1,0 +1,18 @@
+RUN_TYPE: merge
+
+DATA:
+  # lis 2023 augmented dataset
+  - dataset_s3_path: bayer/training_data/instance_segmentation/polygon-corn_leaf/BATCH-rogues-leaf-segmentation-dataset-2023-transfer-2/20230918-104649-1024_1024-augmented-3/
+    images_folder_name: images
+    annotations_folder_name: labels
+    annotations_file_name: dataset.json
+    destination_s3_path: bayer/training_data/instance_segmentation/polygon-corn_leaf/merge-test/
+    default_height: 1024
+    default_width: 1024
+    number: 3
+  # curled leaves 
+  - dataset_s3_path: bayer/training_data/instance_segmentation/polygon-corn_leaf/BATCH-leaf-segmentation-curled-transfer-1/20230915-135547-1024_1024/
+    number: 3
+  # lis 2021 dataset
+  - dataset_s3_path: sandbox2/training_data/instance_segmentation/polygon-corn_leaf/BATCH-Darwin-Leaf-Instance-Seg-11-30/20221202-144935-1024_1024/
+    number: 3

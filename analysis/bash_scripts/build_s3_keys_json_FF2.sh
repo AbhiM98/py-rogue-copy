@@ -1,0 +1,16 @@
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 1, 16" --row_pass "a" --output FF2_7-08_Row01
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 2, 15" --row_pass "a" --output FF2_7-08_Row02
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 3, 14" --row_pass "a" --output FF2_7-08_Row03
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 4, 13" --row_pass "a" --output FF2_7-08_Row04
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 5, 12" --row_pass "a" --output FF2_7-08_Row05
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 6, 11" --row_pass "a" --output FF2_7-08_Row06
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 7, 10" --row_pass "a" --output FF2_7-08_Row07
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 8, 9" --row_pass "a" --output FF2_7-08_Row08
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 8, 9" --row_pass "b" --output FF2_7-08_Row09
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 7, 10" --row_pass "b" --output FF2_7-08_Row10
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 6, 11" --row_pass "b" --output FF2_7-08_Row11
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 5, 12" --row_pass "b" --output FF2_7-08_Row12
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 4, 13" --row_pass "b" --output FF2_7-08_Row13
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 3, 14" --row_pass "b" --output FF2_7-08_Row14
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 2, 15" --row_pass "b" --output FF2_7-08_Row15
+python scripts/build_s3_keys_json.py --field "FF2" --date "7-08" --row "Row 1, 16" --row_pass "b" --output FF2_7-08_Row16

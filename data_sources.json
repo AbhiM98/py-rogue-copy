@@ -1,0 +1,261 @@
+{
+    "Flight Orthomosaics": {
+        "Farmer City 2021" : {
+            "06-19 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/yiut3kv_CO_tufwProductio_CV_prod_65db497_210730_172210/Mosaics/fiqo5rk_MO_tufwProductio_CV_prod_65db497_210730_175610/2021_Albany_FarmerCity_06-19_6x_RGB_orthomosaic.tif"
+                }
+            }, 
+            "06-29 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/sl0pcp5_CO_tufwProductio_CV_prod_65db497_210730_210902/Mosaics/sxnea5u_MO_tufwProductio_CV_prod_65db497_210730_215952/2021_Albany_FarmerCity_06-29_6x_RGB_clipped.tif"
+                }
+            }, 
+            "07-02 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/nybyja4_CO_tufwProductio_CV_prod_65db497_210730_191043/Mosaics/l6wakmb_MO_tufwProductio_CV_prod_65db497_210730_194037/2021_Albany_FarmerCity_07-02_6x_RGB_orthomosaic.tif"
+                }
+            }, 
+            "07-07 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/3t18brs_CO_tufwProductio_CV_prod_65db497_210730_213951/Mosaics/3jt381k_MO_tufwProductio_CV_prod_65db497_210730_225145/2021_Albany_FarmerCity_07-07_6x_RGB_orthomosaic.tif"
+                }
+            }, 
+            "07-15 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/m7uhuut_CO_tufwProductio_CV_prod_3b89a59_210803_191019/Mosaics/5ud66vc_MO_tufwProductio_CV_prod_2a451c5_210804_143549/2021_Albany_FarmerCity_7-15_6x_RGB_orthomosaic.tif"
+                }
+            }, 
+            "07-20 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/ab79jj2_CO_tufwProductio_CV_prod_3b89a59_210803_190609/Mosaics/sfayndx_MO_tufwProductio_CV_prod_3b89a59_210803_225419/2021_Albany_FarmerCity_7-20_6x_RGB_orthomosaic.tif"
+                }
+            }, 
+            "07-24 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/qvsgrtg_AS_tufwProductio_AD_2kqslo07_30b3b293a_20210730_165953/eez7fjz_CO_tufwProductio_CV_prod_3b89a59_210802_201303/Mosaics/mw6pl16_MO_tufwProductio_CV_prod_3b89a59_210802_211524/2021_Albany_FarmerCity_07-24_6x_RGB_orthomosaic.tif"
+                }
+            }
+        },
+        "Waterman 2021": {
+            "06-29 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/zpsl0e3_CO_tufwProductio_CV_prod_65db497_210730_161711/Mosaics/wdbk3ys_MO_tufwProductio_CV_prod_65db497_210802_145733/2021-Albany-Waterman-06-29-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-04 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/q200uk3_CO_tufwProductio_CV_prod_65db497_210730_161852/Mosaics/9ew04rb_MO_tufwProductio_CV_prod_65db497_210802_151027/2021-Albany-Waterman-07-04-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-07 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/rf21blz_CO_tufwProductio_CV_prod_65db497_210730_161936/Mosaics/7112apt_MO_tufwProductio_CV_prod_65db497_210802_151625/2021-Albany-Waterman-07-07-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-09 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/ss114tn_CO_tufwProductio_CV_prod_65db497_210730_162005/Mosaics/f9d90ql_MO_tufwProductio_CV_prod_65db497_210802_161454/2021-Albany-Waterman-07-09-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-14 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/kk7qist_CO_tufwProductio_CV_prod_65db497_210730_162023/Mosaics/s4ak8e2_MO_tufwProductio_CV_prod_65db497_210802_160410/2021-Albany-Waterman-07-14-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-19 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/gqufbc3_CO_tufwProductio_CV_prod_65db497_210730_162138/Mosaics/7orbfc4_MO_tufwProductio_CV_prod_65db497_210802_162726/2021-Albany-Waterman-07-19-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-27 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/mw4w0sk_CO_tufwProductio_CV_prod_2ccfd0f_210810_214801/Mosaics/do3pn0s_MO_tufwProductio_CV_prod_2ccfd0f_210810_222259/2021-Albany-Waterman-07-27-6X-RGB_orthomosaic.tif"
+                }
+            },
+            "07-31 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/e4hqqlf_CO_tufwProductio_CV_prod_2ccfd0f_210810_214843/Mosaics/7939f6k_MO_tufwProductio_CV_prod_2ccfd0f_210810_221532/2021-Albany-Waterman-07-31-6X-RGB_orthomosaic_6mm_lzw.tif"
+                }
+            },
+            "08-06 RGB Orthomosaic": {
+                "s3_params" : {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "tufwProductio/vouo1gw_AS_tufwProductio_CV_prod_65db497_210730_161254/5all5n5_CO_tufwProductio_CV_prod_5a3a476_210823_154947/Mosaics/hj2yxfa_MO_tufwProductio_CV_prod_5a3a476_210823_162741/2021_Albany_Waterman_8-06_6X_RGB_orthomosaic.tif"
+                }
+            }
+        }
+    },
+    "Flight Shapefiles": {
+        "Farmer City 2021": {
+            "Plot Shapefiles": {
+                "s3_params": {
+                    "Bucket": "sentera-rogues-data",
+                    "Key": "Farmer City 2021/Plot Shapefiles/"
+                }
+            },
+            "Rogue Plot Shapefiles": {
+                "s3_params": {
+                    "Bucket": "sentera-rogues-data",
+                    "Key": "Farmer City 2021/Rogue Plot Shapefiles/"
+                }
+            },
+            "Rogue GT Shapefiles": {
+                "s3_params": {
+                    "Bucket": "sentera-rogues-data",
+                    "Key": "Farmer City 2021/Rogue GT Shapefiles/"
+                }
+
+            }
+        },
+        "Waterman 2021": {
+            "Plot Shapefiles": {
+                "s3_params": {
+                    "Bucket": "sentera-rogues-data",
+                    "Key": "Waterman 2021/Plot Shapefiles/"
+                }
+            },
+            "Rogue GT Shapefiles": {
+                "s3_params": {
+                    "Bucket": "sentera-rogues-data",
+                    "Key": "Waterman 2021/Rogue GT Shapefiles/"
+                }
+
+            }
+        }
+    },
+    "High Res Imagery": {
+        "Farmer City 2021": {
+            "06-19 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/hbt2hxa_CO_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162639/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "06-29 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/v78204c_CO_q2hoKoltonBat_AD_ybqqdums_1cd816db4_20210629_154743/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-02 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/t1jteyv_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210702_225943/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-07 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/l0kr85s_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210707_174737/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-10 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/dormdq2_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210710_154003/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-14 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/qmbtu3i_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210714_142650/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-20 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/bjb4oqh_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210720_171820/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "07-24 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/mt7eath_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210724_143936/RGB--25.0mm-0001_0008/"
+                }
+            },
+            "08-02 High Res Imagery": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/baejqtu_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210802_170127/RGB--25.0mm-0001_0008/"
+                }
+            }
+        },
+        "Waterman 2021": {
+
+        }
+    },
+    "Quicktiles": {
+        "Farmer City 2021": {
+            "06-19": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/hbt2hxa_CO_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162639/Mosaics/g1on0qf_MO_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162656/QuickTile_geotiff.tif"
+                }
+            },
+            "06-29": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/v78204c_CO_q2hoKoltonBat_AD_ybqqdums_1cd816db4_20210629_154743/Mosaics/ltgqdo9_MO_q2hoKoltonBat_AD_ybqqdums_1cd816db4_20210629_154808/QuickTile_geotiff.tif"
+                }
+            },
+            "07-02": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/t1jteyv_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210702_225943/Mosaics/kteq821_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210702_230002/QuickTile_geotiff.tif"
+                }
+            },
+            "07-07": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/l0kr85s_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210707_174737/Mosaics/5beml6q_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210707_174802/QuickTile_geotiff.tif"
+                }
+            },
+            "07-10": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/dormdq2_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210710_154003/Mosaics/ic1e8o3_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210710_154015/QuickTile_geotiff.tif"
+                }
+            },
+            "07-14": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/qmbtu3i_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210714_142650/Mosaics/gjhks4w_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210714_142715/QuickTile_geotiff.tif"
+                }
+            },
+            "07-20": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/bjb4oqh_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210720_171820/Mosaics/zl2616j_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210720_171846/QuickTile_geotiff.tif"
+                }
+            },
+            "07-24": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/mt7eath_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210724_143936/Mosaics/wzshdxz_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210724_144000/QuickTile_geotiff.tif"
+                }
+            },
+            "08-02": {
+                "s3_params": {
+                    "Bucket": "cloudvault-prod-permanent",
+                    "Key": "q2hoKoltonBat/9iacjsx_AS_q2hoKoltonBat_AD_ybqqdums_d93e5abbf_20210619_162439/baejqtu_CO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210802_170127/Mosaics/15j3n3l_MO_q2hoKoltonBat_AD_ybqqdums_30b3b293a_20210802_170153/QuickTile_geotiff.tif"
+                }
+            }
+        }
+    }
+}

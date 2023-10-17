@@ -1,0 +1,23 @@
+metric: COCO
+num_classes: 3
+
+TrainDataset:
+  !COCODataSet
+    data_fields: ['image', 'gt_bbox', 'gt_class', 'gt_poly', 'is_crowd']
+    dataset_dir: rogues-stalk-tiller-braces-data
+    image_dir: images
+    anno_path: labels/test.json
+    
+
+EvalDataset:
+  !COCODataSet
+    dataset_dir: rogues-stalk-tiller-braces-data
+    image_dir: images
+    anno_path: labels/test.json
+
+TestDataset:
+  !ImageFolder
+    dataset_dir: rogues-stalk-tiller-braces-data
+    anno_path: labels/test.json
+
+

@@ -1,0 +1,11 @@
+services:
+    prod-QASM-img:
+        build:
+            context: .
+            target: QASM-img
+        image: 475283710372.dkr.ecr.us-east-1.amazonaws.com/qasm:prod-QASM-img
+    dev-QASM-img:
+        build:
+            context: .
+            target: QASM-img
+        image: 475283710372.dkr.ecr.us-east-1.amazonaws.com/qasm:dev-QASM-img

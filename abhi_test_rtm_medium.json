@@ -1,0 +1,10 @@
+{
+    "s3_keys_by_plot": [
+        {
+            "segm_s3_key_nadir": "/py-rogue-detection/dataset.json",
+            "segm_s3_key_oblique": null,
+            "segm_s3_key_bottom": null,
+            "rogue_label_s3_key": null
+        }
+    ]
+}

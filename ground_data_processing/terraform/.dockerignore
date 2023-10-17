@@ -1,0 +1,7 @@
+# Root subdirectories
+.terraform
+modules
+
+# Files
+*.tf
+*.zip

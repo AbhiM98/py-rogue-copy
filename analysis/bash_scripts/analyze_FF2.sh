@@ -1,0 +1,16 @@
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row01/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row02/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row03/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row04/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row05/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row06/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row07/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row08/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row09/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row10/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row11/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row12/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row13/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row14/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row15/measurements_df.gz --threshold
+python scripts/analyze_data.py -d s3_mirror/FF2_7-08_Row16/measurements_df.gz --threshold

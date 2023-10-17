@@ -1,0 +1,12 @@
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row1b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row2b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row3b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row4b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row5b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row6b/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row1a/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row2a/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row3a/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row4a/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row5a/ --threshold 1000
+python scripts/run_analysis.py --dir s3_mirror/FC22_StripTrial_P1_6-21_Row6a/ --threshold 1000

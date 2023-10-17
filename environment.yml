@@ -1,0 +1,43 @@
+name: rogue-venv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - black
+  - boto3
+  - botocore
+  - bs4
+  - click
+  - cudatoolkit
+  - curl
+  - future
+  - git
+  - imagehash
+  - matplotlib
+  - more-itertools
+  - mlflow
+  - mypy-boto3-s3
+  - numba
+  - numpy<1.24
+  - pandas
+  - pre_commit
+  - pip
+  - psutil
+  - pycocotools 
+  - pyparsing
+  - pyproj
+  - python=3.11.*
+  - seaborn
+  - scikit-image
+  - scikit-learn
+  - scikit-video
+  - scipy
+  - setuptools
+  - tqdm
+  - boto3-stubs
+  - pip:
+    - git+ssh://git@github.com/SenteraLLC/S3MP.git@v0.4.3
+    - git+ssh://git@github.com/SenteraLLC/py-aws-utils.git@v3.4.4
+    - opencv-python
+    - ffmpeg-python
+    - mypy-boto3-dynamodb
